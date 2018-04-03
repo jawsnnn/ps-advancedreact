@@ -1,0 +1,1 @@
+Will store public assets, react applications
